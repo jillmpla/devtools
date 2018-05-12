@@ -6,4 +6,25 @@
 <li>http://www.freeimages.com/</li>
 <li>https://www.stockio.com/</li>
 <li>https://github.com/heyalexej/awesome-images</li>
+<li>https://www.toptal.com/designers/subtlepatterns/</li>
+</ul>
+<br>
+<i>Free Icons:</i>
+<ul style="list-style-type:circle">
+<li>http://www.flaticon.com/</li>
+<li>https://www.iconfinder.com/</li>
+<li>https://thenounproject.com/</li>
+<li>https://loading.io/</li>
+</ul>
+<br>
+<i>Random Web:</i>
+<ul style="list-style-type:circle">
+<li>https://wearekiss.com/spritepad</li>
+<li>https://placeholder.com/</li>
+</ul>
+<br>
+<i>Fonts:</i>
+<ul style="list-style-type:circle">
+<li>https://www.dafont.com/</li>
+<li>https://fonts.google.com/</li>
 </ul>
