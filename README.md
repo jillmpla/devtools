@@ -1,7 +1,8 @@
 <b>Dev Tools</b>
 <br>
 <br>
-<i><u>Code:</i></u>
+<i>Code:</i>
+<br>
 <br>
 HTML/CSS/JS:
 <ul style="list-style-type:circle">
