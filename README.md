@@ -34,8 +34,14 @@
 <li>https://www.fontsquirrel.com/</li>
 </ul>
 <br>
+<i>Free Books:</i>
+<ul style="list-style-type:circle">
+<li>http://freecomputerbooks.com/</li>
+</ul>
+<br>
 <i>Random Web:</i>
 <ul style="list-style-type:circle">
 <li>https://wearekiss.com/spritepad</li>
 <li>https://placeholder.com/</li>
 </ul>
+
