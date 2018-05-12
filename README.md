@@ -37,6 +37,7 @@
 <i>Free Books:</i>
 <ul style="list-style-type:circle">
 <li>http://freecomputerbooks.com/</li>
+<li>http://gen.lib.rus.ec/</li>
 </ul>
 <br>
 <i>Random Web:</i>
