@@ -1,13 +1,14 @@
 <b>Dev Tools</b>
 <br>
 <br>
-<i>HTML/CS/JS:</i>
+<i><u>Code:</i></u>
+<br>
+HTML/CSS/JS:
 <ul style="list-style-type:circle">
 <li>https://codepen.io/</li>
 </ul>
 <br>
 <i>Free Images:</i>
-<br>
 <ul style="list-style-type:circle">
 <li>https://unsplash.com/</li>
 <li>https://www.pexels.com/</li>
