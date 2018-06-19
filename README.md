@@ -127,7 +127,6 @@
 <i>Assets:</i>
 <ul style="list-style-type:circle">
 <li>http://romannurik.github.io/AndroidAssetStudio/</li>
-<li>https://proto.io/</li>
 </ul>
 <br>
 <i>Prototype:</i>
