@@ -52,7 +52,7 @@ HTML/CSS/JS:
 <li>https://loremipsum.io/</li>
 </ul>
 <br>
-<i>Micro Landing Page:</i>
+<i>Micro-Landing Page:</i>
 <ul style="list-style-type:circle">
 <li>https://contactinbio.com/</li>
 </ul>
@@ -67,7 +67,7 @@ HTML/CSS/JS:
 <li>https://wetransfer.com/</li>
 </ul>
 <br>
-<i>Screenshare:</i>
+<i>Screen-Share:</i>
 <ul style="list-style-type:circle">
 <li>https://www.join.me/</li>
 </ul>
@@ -90,4 +90,28 @@ HTML/CSS/JS:
 <i>Organize a Project:</i>
 <ul style="list-style-type:circle">
 <li>https://trello.com/</li>
+</ul>
+<br>
+<i>Website Heatmaps:</i>
+<ul style="list-style-type:circle">
+<li>https://www.hotjar.com/</li>
+</ul>
+<br>
+<i>Self-Destructing Notes:</i>
+<ul style="list-style-type:circle">
+<li>https://privnote.com/</li>
+</ul>
+<br>
+<i>Website Build:</i>
+<ul style="list-style-type:circle">
+<li>https://builtwith.com/</li>
+</ul>
+<br>
+<br>
+<i>Android:</i>
+<br>
+<br>
+Assets:
+<ul style="list-style-type:circle">
+<li>http://romannurik.github.io/AndroidAssetStudio/</li>
 </ul>
