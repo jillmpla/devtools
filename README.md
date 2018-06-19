@@ -9,7 +9,7 @@ HTML/CSS/JS:
 <li>https://codepen.io/</li>
 </ul>
 <br>
-<i>Free Images:</i>
+<i>Free Images/Illustrations:</i>
 <ul style="list-style-type:circle">
 <li>https://unsplash.com/</li>
 <li>https://www.pexels.com/</li>
@@ -18,6 +18,9 @@ HTML/CSS/JS:
 <li>https://www.stockio.com/</li>
 <li>https://github.com/heyalexej/awesome-images</li>
 <li>https://www.toptal.com/designers/subtlepatterns/</li>
+<li>https://lukaszadam.com/illustrations</li>
+<li>https://www.canva.com/</li>
+<li>https://undraw.co/</li>
 </ul>
 <br>
 <i>Free Icons:</i>
@@ -43,9 +46,48 @@ HTML/CSS/JS:
 <li>http://gen.lib.rus.ec/</li>
 </ul>
 <br>
-<i>Random Web:</i>
+<i>Placeholders:</i>
 <ul style="list-style-type:circle">
-<li>https://wearekiss.com/spritepad</li>
 <li>https://placeholder.com/</li>
+<li>https://loremipsum.io/</li>
 </ul>
-
+<br>
+<i>Micro Landing Page:</i>
+<ul style="list-style-type:circle">
+<li>https://contactinbio.com/</li>
+</ul>
+<br>
+<i>Screenshot a Webpage:</i>
+<ul style="list-style-type:circle">
+<li>https://screenshot.guru/</li>
+</ul>
+<br>
+<i>Transfer Files:</i>
+<ul style="list-style-type:circle">
+<li>https://wetransfer.com/</li>
+</ul>
+<br>
+<i>Screenshare:</i>
+<ul style="list-style-type:circle">
+<li>https://www.join.me/</li>
+</ul>
+<br>
+<i>Scan a File for Viruses:</i>
+<ul style="list-style-type:circle">
+<li>https://virusscan.jotti.org/</li>
+</ul>
+<br>
+<i>Website Speed:</i>
+<ul style="list-style-type:circle">
+<li>https://gtmetrix.com/</li>
+</ul>
+<br>
+<i>Open Source Software Alternatives:</i>
+<ul style="list-style-type:circle">
+<li>https://alternativeto.net/</li>
+</ul>
+<br>
+<i>Organize a Project:</i>
+<ul style="list-style-type:circle">
+<li>https://trello.com/</li>
+</ul>
