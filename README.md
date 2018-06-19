@@ -1,7 +1,7 @@
 <b>Dev Tools</b>
 <br>
 <br>
-<i>Code:</i>
+<i>Random:</i>
 <br>
 <br>
 HTML/CSS/JS:
