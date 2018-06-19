@@ -4,6 +4,13 @@
 <i>Random:</i>
 <br>
 <br>
+<i>Online Compilers:</i>
+<ul style="list-style-type:circle">
+<li>https://www.onlinegdb.com/</li>
+<li>http://codepad.org/</li>
+<li>https://www.jdoodle.com/</li>
+</ul>
+<br>
 <i>HTML/CSS/JS:</i>
 <ul style="list-style-type:circle">
 <li>https://codepen.io/</li>
@@ -144,6 +151,7 @@
 <li>http://gen.lib.rus.ec/</li>
 <li>https://www.reddit.com/r/csbooks/</li>
 <li>http://www.sciencebooksonline.info/computer-science.html</li>
+<li>http://inventwithpython.com/</li>
 </ul>
 <br>
 <i>MIT OpenCourseWare:</i>
