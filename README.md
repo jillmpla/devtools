@@ -106,7 +106,7 @@
 <li>https://privnote.com/</li>
 </ul>
 <br>
-<i>Tool Websites:</i>
+<i>Tool/Translator Websites:</i>
 <ul style="list-style-type:circle">
 <li>https://onlinecsvtools.com/</li>
 <li>https://onlinebinarytools.com/</li>
