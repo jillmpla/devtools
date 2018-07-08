@@ -155,6 +155,11 @@
 <li>http://inventwithpython.com/</li>
 </ul>
 <br>
+<i>Book Lists:</i>
+<ul style="list-style-type:circle">
+<li>http://www.doradolist.com/universities.html</li>
+</ul>
+<br>
 <i>MIT OpenCourseWare:</i>
 <ul style="list-style-type:circle">
 <li>https://ocw.mit.edu/courses/find-by-department/</li>
