@@ -153,6 +153,7 @@
 <li>https://www.reddit.com/r/csbooks/</li>
 <li>http://www.sciencebooksonline.info/computer-science.html</li>
 <li>http://inventwithpython.com/</li>
+<li>https://github.com/tpn/pdfs</li>
 </ul>
 <br>
 <i>Book Lists:</i>
