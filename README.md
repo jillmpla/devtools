@@ -1,7 +1,7 @@
 <b>Dev Tools</b>
 <br>
 <br>
-<i>Random:</i>
+<i>Tools & Resources:</i>
 <br>
 <br>
 <i>Online Compilers:</i>
@@ -210,7 +210,7 @@
 <i>Miscellaneous:</i>
 <br>
 <br>
-<i>Automated Editor:</i>
+<i>Editor:</i>
 <ul style="list-style-type:circle">
 <li>http://www.hemingwayapp.com/</li>
 </ul>
