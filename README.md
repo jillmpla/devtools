@@ -74,6 +74,16 @@
 <li>https://builtwith.com/</li>
 </ul>
 <br>
+<i>Website SEO Evaluation:</i>
+<ul style="list-style-type:circle">
+<li>https://sitechecker.pro/</li>
+</ul>
+<br>
+<i>Long Tail SEO Keywords:</i>
+<ul style="list-style-type:circle">
+<li>https://kwfinder.com/</li>
+</ul>
+<br>
 <i>Micro-Landing Page:</i>
 <ul style="list-style-type:circle">
 <li>https://contactinbio.com/</li>
@@ -220,5 +230,25 @@
 <li>https://e.ggtimer.com/</li>
 </ul>
 <br>
+<i>Live Radio Stations:</i>
+<ul style="list-style-type:circle">
+<li>http://radio.garden/</li>
+</ul>
 <br>
+<i>Best Hotel WiFi:</i>
+<ul style="list-style-type:circle">
+<li>https://www.hotelwifitest.com/</li>
+</ul>
+<br>
+<i>Live Flight Tracker:</i>
+<ul style="list-style-type:circle">
+<li>https://www.flightradar24.com</li>
+</ul>
+<br>
+<i>Pretend You're in a Coffee Shop:</i>
+<ul style="list-style-type:circle">
+<li>https://coffitivity.com/</li>
+</ul>
+<br>
+
 
