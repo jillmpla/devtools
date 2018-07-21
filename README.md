@@ -109,6 +109,26 @@
 <li>https://trello.com/</li>
 </ul>
 <br>
+<i>Invoicing, Proposals, etc.:</i>
+<ul style="list-style-type:circle">
+<li>https://www.and.co/</li>
+</ul>
+<br>
+<i>Project & Task Management:</i>
+<ul style="list-style-type:circle">
+<li>https://asana.com/</li>
+</ul>
+<br>
+<i>Social Media Management:</i>
+<ul style="list-style-type:circle">
+<li>https://buffer.com/</li>
+</ul>
+<br>
+<i>Embed Instagram Videos & Photos:</i>
+<ul style="list-style-type:circle">
+<li>https://ctrlq.org/instagram/</li>
+</ul>
+<br>
 <i>Self-Destructing Notes:</i>
 <ul style="list-style-type:circle">
 <li>https://privnote.com/</li>
@@ -185,4 +205,20 @@
 <ul style="list-style-type:circle">
 <li>https://prolific.ac/</li>
 </ul>
+<br>
+<br>
+<i>Miscellaneous:</i>
+<br>
+<br>
+<i>Automated Editor:</i>
+<ul style="list-style-type:circle">
+<li>http://www.hemingwayapp.com/</li>
+</ul>
+<br>
+<i>Timer:</i>
+<ul style="list-style-type:circle">
+<li>https://e.ggtimer.com/</li>
+</ul>
+<br>
+<br>
 
