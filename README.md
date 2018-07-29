@@ -216,6 +216,11 @@
 <li>https://programming.dojo.net.nz/welcome/index</li>
 </ul>
 <br>
+<i>Project-based Learning:</i>
+<ul style="list-style-type:circle">
+<li>https://github.com/tuvtran/project-based-learning</li>
+</ul>
+<br>
 <i>Academic Studies:</i>
 <ul style="list-style-type:circle">
 <li>https://prolific.ac/</li>
@@ -253,6 +258,15 @@
 <i>Pretend You're in a Coffee Shop:</i>
 <ul style="list-style-type:circle">
 <li>https://coffitivity.com/</li>
+</ul>
+<br>
+<br>
+<i>Into the Further:</i>
+<br>
+<br>
+<i>A Curated List of Lists:</i>
+<ul style="list-style-type:circle">
+<li>https://github.com/sindresorhus/awesome</li>
 </ul>
 <br>
 
