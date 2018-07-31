@@ -4,6 +4,11 @@
 <i>Tools & Resources:</i>
 <br>
 <br>
+<i>IDE's:</i>
+<ul style="list-style-type:circle">
+<li>https://www.jetbrains.com/student/</li>
+</ul>
+<br>
 <i>Programming Design Patterns:</i>
 <ul style="list-style-type:circle">
 <li>https://refactoring.guru/design-patterns/catalog</li>
