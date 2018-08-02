@@ -1,5 +1,5 @@
-![Screenshot](devtools/comp.png)
-##<i>A Growing List of Favorite Dev Tools & Resources:</i>
+<img src="https://github.com/jmppmj/jmppmj.github.io/blob/master/comp.png" alt="Dev Tools"/>
+<h2><i><center>A Growing List of Favorite Dev Tools & Resources</i></h2></center>
 <br>
 <br>
 <i>Virtual OS Environments:</i>
