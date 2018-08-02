@@ -9,7 +9,7 @@
 <li>https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html</li>
 </ul>
 <br>
-<i>IDE's:</i>
+<i>IDEs:</i>
 <ul style="list-style-type:circle">
 <li>https://www.jetbrains.com/student/</li>
 </ul>
