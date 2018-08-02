@@ -1,5 +1,7 @@
-<img src="https://github.com/jmppmj/jmppmj.github.io/blob/master/comp.png" alt="Dev Tools"/>
-<h2><i><center>A Growing List of Favorite Dev Tools & Resources</i></h2></center>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/jmppmj/jmppmj.github.io/blob/master/comp.png">
+</p>
+<p align="center"><h2><i>Dev Tools & Resources</i></h2></p>
 <br>
 <br>
 <i>Virtual OS Environments:</i>
