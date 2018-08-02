@@ -1,7 +1,7 @@
-<b>Dev Tools</b>
 <br>
 <br>
-<i>Tools & Resources:</i>
+![alt text](https://github.com/jmppmj/jmppmj.github.io/blob/master/hiuhiuh.png "Dev Tools")
+<i>##A Growing List of Favorite Dev Tools & Resources:</i>
 <br>
 <br>
 <i>Virtual OS Environments:</i>
@@ -44,6 +44,13 @@
 <li>https://www.canva.com/</li>
 <li>https://undraw.co/</li>
 <li>https://www.piskelapp.com/</li>
+</ul>
+<br>
+<i>Clip Art:</i>
+<ul style="list-style-type:circle">
+<li>https://www.graphicsfactory.com/</li>
+<li>https://www.kisspng.com/</li>
+<li>https://openclipart.org/</li>
 </ul>
 <br>
 <i>Free Icons:</i>
