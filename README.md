@@ -4,6 +4,11 @@
 <i>Tools & Resources:</i>
 <br>
 <br>
+<i>Virtual OS Environments:</i>
+<ul style="list-style-type:circle">
+<li>https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html</li>
+</ul>
+<br>
 <i>IDE's:</i>
 <ul style="list-style-type:circle">
 <li>https://www.jetbrains.com/student/</li>
