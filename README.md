@@ -1,7 +1,7 @@
 <p align="center">
   <img width="460" height="300" src="https://github.com/jmppmj/jmppmj.github.io/blob/master/comp.png">
 </p>
-<p align="center"><h2><i>Dev Tools & Resources</i></h2></p>
+<h2 align="center"><i>Dev Tools & Resources</i></h2></p>
 <br>
 <br>
 <i>Virtual OS Environments:</i>
@@ -46,7 +46,7 @@
 <li>https://www.piskelapp.com/</li>
 </ul>
 <br>
-<i>Clip Art:</i>
+<i>Clip-Art:</i>
 <ul style="list-style-type:circle">
 <li>https://www.graphicsfactory.com/</li>
 <li>https://www.kisspng.com/</li>
