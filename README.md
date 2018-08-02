@@ -1,6 +1,4 @@
-<br>
-<br>
-![Screenshot](comp.png)
+![Screenshot](devtools/comp.png)
 ##<i>A Growing List of Favorite Dev Tools & Resources:</i>
 <br>
 <br>
