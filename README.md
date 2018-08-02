@@ -1,7 +1,7 @@
 <br>
 <br>
-![alt text](https://github.com/jmppmj/jmppmj.github.io/blob/master/hiuhiuh.png "Dev Tools")
-<i>##A Growing List of Favorite Dev Tools & Resources:</i>
+![Screenshot](comp.png)
+##<i>A Growing List of Favorite Dev Tools & Resources:</i>
 <br>
 <br>
 <i>Virtual OS Environments:</i>
