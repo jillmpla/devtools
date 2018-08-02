@@ -53,6 +53,11 @@
 <li>https://openclipart.org/</li>
 </ul>
 <br>
+<i>Emojis:</i>
+<ul style="list-style-type:circle">
+<li>https://www.webpagefx.com/tools/emoji-cheat-sheet/</li>
+</ul>
+<br>
 <i>Free Icons:</i>
 <ul style="list-style-type:circle">
 <li>http://www.flaticon.com/</li>
