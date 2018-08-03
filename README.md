@@ -29,6 +29,7 @@
 <i>HTML/CSS/JS:</i>
 <ul style="list-style-type:circle">
 <li>https://codepen.io/</li>
+<li>http://jsfiddle.net/</li>
 </ul>
 <br>
 <i>Free Images/Illustrations:</i>
