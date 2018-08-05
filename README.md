@@ -186,6 +186,12 @@
 <li>https://gchq.github.io/CyberChef/</li>
 </ul>
 <br>
+<i>Collaborative Writing & Projects:</i>
+<ul style="list-style-type:circle">
+<li>https://www.overleaf.com/</li>
+<li>https://www.google.com/drive/</li>
+</ul>
+<br>
 <br>
 <i>Android:</i>
 <br>
