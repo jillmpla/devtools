@@ -14,6 +14,7 @@
 <ul style="list-style-type:circle">
 <li>https://www.jetbrains.com/student/</li>
 <li>https://notepad-plus-plus.org/</li>
+<li>https://www.sublimetext.com/</li>
 </ul>
 <br>
 <i>Programming Design Patterns:</i>
