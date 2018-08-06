@@ -4,14 +4,16 @@
 <h2 align="center"><i>Dev Tools & Resources</i></h2></p>
 <br>
 <br>
-<i>Virtual OS Environments:</i>
+<i>Virtualization:</i>
 <ul style="list-style-type:circle">
 <li>https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html</li>
+<li>https://www.virtualbox.org/</li>
 </ul>
 <br>
 <i>IDEs:</i>
 <ul style="list-style-type:circle">
 <li>https://www.jetbrains.com/student/</li>
+<li>https://notepad-plus-plus.org/</li>
 </ul>
 <br>
 <i>Programming Design Patterns:</i>
@@ -52,6 +54,16 @@
 <li>https://www.graphicsfactory.com/</li>
 <li>https://www.kisspng.com/</li>
 <li>https://openclipart.org/</li>
+</ul>
+<br>
+<i>Free Alternative to Photoshop:</i>
+<ul style="list-style-type:circle">
+<li>https://www.gimp.org/</li>
+</ul>
+<br>
+<i>3D Modeling:</i>
+<ul style="list-style-type:circle">
+<li>https://www.blender.org/</li>
 </ul>
 <br>
 <i>Emojis:</i>
@@ -192,6 +204,21 @@
 <li>https://www.google.com/drive/</li>
 </ul>
 <br>
+<i>Digital Flashcards:</i>
+<ul style="list-style-type:circle">
+<li>https://apps.ankiweb.net/</li>
+</ul>
+<br>
+<i>Public Datasets:</i>
+<ul style="list-style-type:circle">
+<li>https://www.data.gov/</li>
+</ul>
+<br>
+<i>Create Data Visualizations:</i>
+<ul style="list-style-type:circle">
+<li>https://www.tableau.com/academic/students</li>
+</ul>
+<br>
 <br>
 <i>Android:</i>
 <br>
@@ -233,6 +260,11 @@
 <i>MIT OpenCourseWare:</i>
 <ul style="list-style-type:circle">
 <li>https://ocw.mit.edu/courses/find-by-department/</li>
+</ul>
+<br>
+<i>Saylor Academy:</i>
+<ul style="list-style-type:circle">
+<li>https://learn.saylor.org/</li>
 </ul>
 <br>
 <i>Problems:</i>
