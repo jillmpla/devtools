@@ -214,6 +214,7 @@
 <ul style="list-style-type:circle">
 <li>https://www.data.gov/</li>
 <li>https://toolbox.google.com/datasetsearch</li>
+<li>https://github.com/awesomedata/awesome-public-datasets</li>
 </ul>
 <br>
 <i>Create Data Visualizations:</i>
