@@ -1,5 +1,4 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/jmppmj/jmppmj.github.io/blob/master/comp.png">
 </p>
 <h2 align="center"><i>Dev Tools & Resources</i></h2></p>
 <br>
