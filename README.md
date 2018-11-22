@@ -214,6 +214,7 @@
 <li>https://www.data.gov/</li>
 <li>https://toolbox.google.com/datasetsearch</li>
 <li>https://github.com/awesomedata/awesome-public-datasets</li>
+<li>https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets</li>  
 </ul>
 <br>
 <i>Create Data Visualizations:</i>
