@@ -196,6 +196,7 @@
 <li>https://hreftools.com/</li>
 <li>https://app.quicktype.io/</li>
 <li>https://gchq.github.io/CyberChef/</li>
+<li>https://www.binaryhexconverter.com/</li>
 </ul>
 <br>
 <i>Collaborative Writing & Projects:</i>
