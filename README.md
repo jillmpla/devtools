@@ -88,6 +88,12 @@
 <li>https://www.fontsquirrel.com/</li>
 </ul>
 <br>
+<i>Implementing Custom Fonts:</i>
+<ul style="list-style-type:circle">
+<li>https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website</li>
+<li>https://www.fontsquirrel.com/tools/webfont-generator</li>
+</ul>
+<br>
 <i>Placeholders:</i>
 <ul style="list-style-type:circle">
 <li>https://placeholder.com/</li>
