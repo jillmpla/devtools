@@ -1,6 +1,9 @@
 <p align="center">
 </p>
 <h2 align="center"><i>Dev Tools & Resources</i></h2></p>
+
+![Preview Image](/compicon.png)
+
 <br>
 <br>
 <i>Virtualization:</i>
