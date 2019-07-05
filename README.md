@@ -2,7 +2,9 @@
 </p>
 <h2 align="center"><i>Dev Tools & Resources</i></h2></p>
 
+<p align="center">
 ![Preview Image](/compicon.png)
+</p>
 
 <br>
 <br>
