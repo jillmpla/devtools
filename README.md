@@ -3,12 +3,7 @@
 <h2 align="center"><i>Dev Tools & Resources</i></h2></p>
 
 <p align="center">
-
-<p align="center">
-  <img width="600" height="600" src="https://github.com/jmppmj/devtools/blob/master/compicon.png">
-</p>
-![Preview Image](/compicon.png)
-
+  <img width="400" height="400" src="https://github.com/jmppmj/devtools/blob/master/compicon.png">
 </p>
 
 <br>
