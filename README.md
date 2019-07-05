@@ -5,7 +5,7 @@
 <p align="center">
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/jmppmj/devtools/blob/master/compicon.png">
+  <img width="600" height="600" src="https://github.com/jmppmj/devtools/blob/master/compicon.png">
 </p>
 ![Preview Image](/compicon.png)
 
