@@ -166,6 +166,7 @@
 </ul>
 <br>
 <i>Contribute to Open Source:</i>
+<ul style="list-style-type:circle">
 <li>https://opensource.guide/</li>
 </ul>
 <br>
