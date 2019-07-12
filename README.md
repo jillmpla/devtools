@@ -165,6 +165,10 @@
 <li>https://libraries.io/</li>
 </ul>
 <br>
+<i>Contribute to Open Source:</i>
+<li>https://opensource.guide/</li>
+</ul>
+<br>
 <i>Organize a Project:</i>
 <ul style="list-style-type:circle">
 <li>https://trello.com/</li>
