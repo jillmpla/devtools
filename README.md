@@ -342,6 +342,9 @@
 <li>https://coffitivity.com/</li>
 </ul>
 <br>
+<i>Universal Document Converter:</i>
+<ul style="list-style-type:circle">
+<li>https://pandoc.org/</li>
 <br>
 <i>Into the Further:</i>
 <br>
