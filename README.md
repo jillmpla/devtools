@@ -346,9 +346,9 @@
 <ul style="list-style-type:circle">
 <li>https://pandoc.org/</li>
 <br>
+<br>
 <i>Into the Further:</i>
-<br>
-<br>
+<ul style="list-style-type:circle">
 <i>A Curated List of Lists:</i>
 <ul style="list-style-type:circle">
 <li>https://github.com/sindresorhus/awesome</li>
