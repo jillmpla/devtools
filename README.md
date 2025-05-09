@@ -71,19 +71,19 @@ Core tools to build, deploy, and manage applications in scalable environments.
 ### 📊 Machine Learning & Data Science
 Frameworks, platforms, and tools used for machine learning, AI experimentation, and data science.
 
-#### 🧪 Notebooks & Experimentation
+#### Notebooks & Experimentation
 - [Jupyter Notebook](https://jupyter.org/) – Open-source web application for creating and sharing documents containing live code, equations, visualizations, and narrative text.
 - [Google Colab](https://colab.research.google.com/) – Free Jupyter notebook environment from Google that runs in the cloud with GPU/TPU support.
 
-#### 🏆 Competitions & Datasets
+#### Competitions & Datasets
 - [Kaggle](https://www.kaggle.com/) – Online platform for data science competitions, datasets, notebooks, and collaborative ML projects.
 - [Papers with Code](https://paperswithcode.com/) – Resource for finding ML research papers along with code implementations and benchmarks.
 
-#### 📈 Experiment Tracking & Lifecycle
+#### Experiment Tracking & Lifecycle
 - [Weights & Biases](https://wandb.ai/) – Tool for experiment tracking, dataset versioning, and model performance visualization.
 - [MLflow](https://mlflow.org/) – Open-source platform for managing the ML lifecycle, including experimentation, reproducibility, and deployment.
 
-#### 🤖 Pretrained Models & APIs
+#### Pretrained Models & APIs
 - [Hugging Face](https://huggingface.co/) – Hub for pre-trained models and datasets, especially in natural language processing (NLP).
 
 ---
