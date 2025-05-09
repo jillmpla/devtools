@@ -88,14 +88,22 @@ Frameworks, platforms, and tools used for machine learning, AI experimentation, 
 
 ---
 
-### 🔐 Security & Reliability
-Tools for securing your codebase, monitoring activity, and managing infrastructure reliability.
+### 🔐 Security & Reliability  
+Essential tools for protecting your web apps, securing infrastructure, and ensuring system uptime.
 
-- [Aikido Security](https://www.aikido.dev/) – Code-to-cloud security and scanning platform.
-- [NordLayer](https://nordlayer.com/) – Business VPN and secure network access.
-- [Teramind](https://www.teramind.co/) – Insider threat detection and behavior analytics.
-- [Endpoint Central](https://www.manageengine.com/products/desktop-central/) – Unified endpoint management by ManageEngine.
-- [Log360](https://www.manageengine.com/log-management/) – SIEM and log management suite.
+#### Network & Application Security
+- [Cloudflare](https://www.cloudflare.com/) – DDoS protection, CDN, SSL/TLS, WAF, and security analytics for web apps.
+- [NordLayer](https://nordlayer.com/) – Business VPN and secure remote access for hybrid teams.
+
+#### Code & DevSecOps
+- [Aikido Security](https://www.aikido.dev/) – Code-to-cloud vulnerability scanning and developer-centric security tools.
+
+#### Threat Detection & Monitoring
+- [Teramind](https://www.teramind.co/) – Insider threat detection, user behavior analytics, and monitoring.
+- [Log360](https://www.manageengine.com/log-management/) – SIEM solution for log management, auditing, and compliance.
+
+#### Endpoint & Infrastructure Management
+- [Endpoint Central](https://www.manageengine.com/products/desktop-central/) – Unified endpoint management with patching, asset tracking, and remote control.
 
 ---
 
