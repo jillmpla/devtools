@@ -1,4 +1,4 @@
-## 💻 Developer Tools & Resources
+## 💾 Developer Tools & Resources
 A curated list of essential developer tools and platforms for software engineers, designers, and data scientists.
 
 ---
@@ -10,7 +10,7 @@ Tools for writing and editing code, ranging from lightweight editors to full IDE
 - [Visual Studio Code](https://code.visualstudio.com/) – Lightweight, extensible editor with powerful integrations.
 - [Notepad++](https://notepad-plus-plus.org/) – Free Windows text/code editor with syntax highlighting.
 - [JetBrains IDEs](https://www.jetbrains.com/) – Professional IDEs including IntelliJ, WebStorm, and PyCharm.
-- [Visual Studio](https://visualstudio.microsoft.com/) – Full-featured IDE for Windows/macOS with robust support for .NET, C++, and desktop development.
+- [Visual Studio](https://visualstudio.microsoft.com/) – Full-featured IDE for Windows/macOS with robust support for .NET and C++.
 - [Eclipse](https://www.eclipse.org/) – Open-source IDE primarily used for Java, with plugin support for additional languages and tooling.
 
 #### AI Tools
