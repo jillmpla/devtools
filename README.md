@@ -37,7 +37,6 @@ Resources to discover, test, and generate APIs efficiently.
 - [DreamFactory](https://www.dreamfactory.com/) – Auto-generates REST APIs from SQL or NoSQL databases with built-in security and role-based access.
 - [LoopBack](https://loopback.io/) – Extensible Node.js framework for building APIs quickly from models, with strong TypeScript support.
 - [Xmysql](https://github.com/o1lab/xmysql) – Generate a REST API from a MySQL database instantly without writing code.
-- [Apisentris](https://apisentris.com/) – Automatic REST API generator for SQL and NoSQL backends with analytics and access control.
 - [Sandman2](https://github.com/jeffknupp/sandman2) – Instantly turn any legacy database into a RESTful API using Python.
 - [API Generators List (GitHub)](https://github.com/wrannaman/generators) – Curated list of open-source tools for auto-generating APIs.
 
