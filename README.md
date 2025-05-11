@@ -93,6 +93,7 @@ Essential tools for protecting your web apps, securing infrastructure, and ensur
 
 #### Network & Application Security
 - [Cloudflare](https://www.cloudflare.com/) – DDoS protection, CDN, SSL/TLS, WAF, and security analytics for web apps.
+- [SSL Labs](https://www.ssllabs.com/ssltest/) – SSL Server Test to evaluate your HTTPS configuration and certificate strength.
 - [NordLayer](https://nordlayer.com/) – Business VPN and secure remote access for hybrid teams.
 
 #### Code & DevSecOps
