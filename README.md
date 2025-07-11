@@ -3,16 +3,16 @@ A curated list of essential developer tools and platforms for software engineers
 
 ## Quick Navigation
 
-- [Developer Tools & Resources](#developer-tools--resources)
-  - [Development Environments](#development-environments)
-  - [APIs & Testing](#apis--testing)
-  - [DevOps & Infrastructure](#devops--infrastructure)
-  - [Machine Learning & Data Science](#machine-learning--data-science)
-  - [Security & Reliability](#security--reliability)
-  - [Build & Test](#build--test)
-  - [Writing & Project Documentation](#writing--project-documentation)
-  - [Wireframing & Prototyping](#wireframing--prototyping)
-  - [Design Resources](#design-resources)
+- [Developer Tools & Resources](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-developer-tools--resources)
+  - [Development Environments](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#%EF%B8%8F-development-environments)
+  - [APIs & Testing](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-apis--testing)
+  - [DevOps & Infrastructure](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-devops--infrastructure)
+  - [Machine Learning & Data Science](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-machine-learning--data-science)
+  - [Security & Reliability](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-security--reliability)
+  - [Build & Test](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-build--test)
+  - [Writing & Project Documentation](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-writing--project-documentation)
+  - [Wireframing & Prototyping](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#%EF%B8%8F-wireframing--prototyping)
+  - [Design Resources](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-design-resources)
 
 ---
 
