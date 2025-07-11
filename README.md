@@ -1,6 +1,19 @@
 ## 💾 Developer Tools & Resources
 A curated list of essential developer tools and platforms for software engineers, designers, and data scientists.
 
+## Quick Navigation
+
+- [Developer Tools & Resources](#developer-tools--resources)
+  - [Development Environments](#development-environments)
+  - [APIs & Testing](#apis--testing)
+  - [DevOps & Infrastructure](#devops--infrastructure)
+  - [Machine Learning & Data Science](#machine-learning--data-science)
+  - [Security & Reliability](#security--reliability)
+  - [Build & Test](#build--test)
+  - [Writing & Project Documentation](#writing--project-documentation)
+  - [Wireframing & Prototyping](#wireframing--prototyping)
+  - [Design Resources](#design-resources)
+
 ---
 
 ### 🖥️ Development Environments
@@ -126,6 +139,10 @@ Utilities for managing dependencies, testing applications, and documenting APIs.
 - [Swagger UI](https://swagger.io/tools/swagger-ui/) – Interactive browser-based tool for exploring and testing OpenAPI-compliant REST APIs.
 - [Swagger Editor](https://editor.swagger.io/) – Online YAML/JSON editor for designing and validating OpenAPI definitions.
 - [OpenAPI Spec](https://swagger.io/specification/) – Standardized specification for building RESTful APIs that can be visualized and tested automatically.
+
+#### HTML & CSS Validators
+- [W3C Markup Validator](https://validator.w3.org/) – Checks HTML and XHTML documents for conformance to W3C standards.
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) – Validates CSS stylesheets for syntax and compatibility.
 
 ---
 
