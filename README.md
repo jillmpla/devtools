@@ -9,6 +9,7 @@ A curated list of essential developer tools and platforms for software engineers
   - [DevOps & Infrastructure](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-devops--infrastructure)
   - [Machine Learning & Data Science](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-machine-learning--data-science)
   - [Security & Reliability](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-security--reliability)
+  - [Accessibility Tools](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-accessibility-tools)
   - [Build & Test](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-build--test)
   - [Writing & Project Documentation](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#-writing--project-documentation)
   - [Wireframing & Prototyping](https://github.com/jillmpla/devtools/tree/master?tab=readme-ov-file#%EF%B8%8F-wireframing--prototyping)
@@ -121,6 +122,18 @@ Essential tools for protecting your web apps, securing infrastructure, and ensur
 
 ---
 
+### ♿ Accessibility Tools
+Resources to evaluate, test, and improve accessibility for websites, applications, and digital products.
+
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) – Browser-based tool to identify WCAG errors and accessibility issues visually.
+- [axe DevTools](https://www.deque.com/axe/) – Browser extension and automated testing framework for accessibility auditing.
+- [Color Oracle](https://colororacle.org/) – Cross-platform color blindness simulator.
+- [Contrast Checker (WebAIM)](https://webaim.org/resources/contrastchecker/) – Test text/background color contrast against WCAG standards.
+- [Pa11y](https://pa11y.org/) – Command-line tool for automated accessibility testing.
+- [Accessibility Insights](https://accessibilityinsights.io/) – Microsoft’s open-source suite for accessibility testing on web and desktop apps.
+
+---
+
 ### 📦 Build & Test
 Utilities for managing dependencies, testing applications, and documenting APIs.
 
@@ -218,3 +231,4 @@ Design and UI assets to support interface development, visual design, and front-
 
 #### Pixel Art
 - [Piskel](https://www.piskelapp.com/) – Online pixel art and animated sprite editor.
+
