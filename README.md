@@ -33,6 +33,8 @@ Tools for writing and editing code, ranging from lightweight editors to full IDE
 - [Replit](https://replit.com/) – Browser-based IDE with collaborative and AI features.
 
 ---
+- [toprank](https://github.com/nowork-studio/toprank) – Open-source Claude Code plugin (MIT) with 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and Google Ads API for automated audits, keyword research, and content optimization.
+
 
 ### 🔄 APIs & Testing
 Resources to discover, test, and generate APIs efficiently.
