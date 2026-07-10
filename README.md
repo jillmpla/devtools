@@ -1,5 +1,5 @@
 ## 💾 Developer Tools & Resources
-A curated list of essential developer tools and platforms for software engineers, designers, and data scientists.
+A curated list of essential developer tools and platforms for software engineers, designers, and data scientists. 
 
 ## Quick Navigation
 
